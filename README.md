@@ -14,4 +14,4 @@
       <p></p>
        <hr>
     <h3>Certifications</h3>
-href="https://courses.cognitiveclass.ai/certificates/ef6d2dd2502a4fcfa0189566a2e29e3d">SQL and Relational Databases 101</a>
+<a href="https://courses.cognitiveclass.ai/certificates/ef6d2dd2502a4fcfa0189566a2e29e3d">SQL and Relational Databases 101</a>
