@@ -16,7 +16,7 @@
     <h3>Certifications</h3>
 <a href="https://courses.cognitiveclass.ai/certificates/ef6d2dd2502a4fcfa0189566a2e29e3d">SQL and Relational Databases 101</a>
 
-    <h3>Certifications</h3>
+    <h3>Skillsets</h3>
       <ul>
         <li>Web Designing</li>
         <li>Front-end Developer</li>
