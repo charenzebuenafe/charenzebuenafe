@@ -20,12 +20,12 @@
 <div><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=25BFC149165672AD9EE533B9B9ED6C9A91AF48FDCD9D47EFB268376C842A35B0">Become an OCI AI Foundations Associate (2025) (2025) </a></div>
       <hr>
 
-## 💻 Skill Sets
+##  Skill Sets
 
 - **Programming:** Java, JavaScript  
 - **Databases:** IBM DB2 Cloud  
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML  
 
-## 📫 Contact Me
+##  Contact Me
  
 - **Email:** [juandelacruz@gmail.com](mailto:charenze16@gmail.com)  
