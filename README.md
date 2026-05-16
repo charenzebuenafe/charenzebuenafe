@@ -28,4 +28,4 @@
 
 ## 📫 Contact Me
  
-- **Email:** [juandelacruz@gmail.com](mailto:juandelacruz@gmail.com)  
+- **Email:** [juandelacruz@gmail.com](mailto:charenze16@gmail.com)  
