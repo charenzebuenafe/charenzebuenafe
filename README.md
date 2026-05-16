@@ -19,8 +19,13 @@
 <div><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F772A32A7BE97332702FBF375489860423E27198D77AAC64ECEEEAB916CCD15A">Become an Oracle Data Platform Foundations Associate (2025) </a></div>
 <div><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=25BFC149165672AD9EE533B9B9ED6C9A91AF48FDCD9D47EFB268376C842A35B0">Become an OCI AI Foundations Associate (2025) (2025) </a></div>
       <hr>
-    <h3>Skillsets</h3>
-      <ul>
-        <li>Web Designing</li>
-        <li>Front-end Developer</li>
-      </ul>
+
+## 💻 Skill Sets
+
+- **Programming:** Java, JavaScript  
+- **Databases:** IBM DB2 Cloud  
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML  
+
+## 📫 Contact Me
+ 
+- **Email:** [juandelacruz@gmail.com](mailto:juandelacruz@gmail.com)  
